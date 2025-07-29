@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "questionTitle": "What is the capital of India?",
+    "option1": "Mumbai",
+    "option2": "Delhi",
+    "option3": "Kolkata",
+    "option4": "Chennai",
+    "rightAnswer": "Delhi",
+    "difficultyLevel": "Easy",
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "questionTitle": "Which planet is known as the Red Planet?",
+    "option1": "Earth",
+    "option2": "Jupiter",
+    "option3": "Mars",
+    "option4": "Saturn",
+    "rightAnswer": "Mars",
+    "difficultyLevel": "Easy",
+    "category": "Science"
+  },
+  {
+    "id": 3,
+    "questionTitle": "Who wrote the national anthem of India?",
+    "option1": "Rabindranath Tagore",
+    "option2": "Bankim Chandra Chattopadhyay",
+    "option3": "Sarojini Naidu",
+    "option4": "Subhash Chandra Bose",
+    "rightAnswer": "Rabindranath Tagore",
+    "difficultyLevel": "Medium",
+    "category": "History"
+  },
+  {
+    "id": 4,
+    "questionTitle": "Which gas is most abundant in the Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Hydrogen",
+    "option3": "Carbon Dioxide",
+    "option4": "Nitrogen",
+    "rightAnswer": "Nitrogen",
+    "difficultyLevel": "Medium",
+    "category": "Science"
+  },
+  {
+    "id": 5,
+    "questionTitle": "Who is known as the Father of Computers?",
+    "option1": "Bill Gates",
+    "option2": "Charles Babbage",
+    "option3": "Alan Turing",
+    "option4": "Steve Jobs",
+    "rightAnswer": "Charles Babbage",
+    "difficultyLevel": "Medium",
+    "category": "Technology"
+  },
+  {
+    "id": 6,
+    "questionTitle": "Which element has the chemical symbol 'O'?",
+    "option1": "Gold",
+    "option2": "Oxygen",
+    "option3": "Osmium",
+    "option4": "Oxide",
+    "rightAnswer": "Oxygen",
+    "difficultyLevel": "Easy",
+    "category": "Chemistry"
+  },
+  {
+    "id": 7,
+    "questionTitle": "What is the boiling point of water at sea level?",
+    "option1": "90°C",
+    "option2": "100°C",
+    "option3": "110°C",
+    "option4": "120°C",
+    "rightAnswer": "100°C",
+    "difficultyLevel": "Easy",
+    "category": "Science"
+  },
+  {
+    "id": 8,
+    "questionTitle": "Who discovered gravity?",
+    "option1": "Albert Einstein",
+    "option2": "Isaac Newton",
+    "option3": "Galileo Galilei",
+    "option4": "Nikola Tesla",
+    "rightAnswer": "Isaac Newton",
+    "difficultyLevel": "Medium",
+    "category": "Physics"
+  },
+  {
+    "id": 9,
+    "questionTitle": "Which organ purifies our blood?",
+    "option1": "Lungs",
+    "option2": "Heart",
+    "option3": "Kidney",
+    "option4": "Liver",
+    "rightAnswer": "Kidney",
+    "difficultyLevel": "Easy",
+    "category": "Biology"
+  },
+  {
+    "id": 10,
+    "questionTitle": "What is the smallest prime number?",
+    "option1": "0",
+    "option2": "1",
+    "option3": "2",
+    "option4": "3",
+    "rightAnswer": "2",
+    "difficultyLevel": "Easy",
+    "category": "Mathematics"
+  }
+]
